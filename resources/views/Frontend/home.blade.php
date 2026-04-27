@@ -19,10 +19,8 @@
                         <p data-aos="fade-left" data-aos-duration="1000">Control your home security remotely with our smart
                             accessories designed <br class="d-lg-block d-none"> for convenience and safety. Stay connected,
                             stay safe.</p>
-                        <div class="btn-area" data-aos="fade-left" data-aos-duration="1200">
                             <a href="tel:+1234567890" class="header-btn5">Contact Now <i
                                     class="fa-solid fa-arrow-right"></i></a>
-                        </div>
                     </div>
                 </div>
                 <div class="col-lg-6">
