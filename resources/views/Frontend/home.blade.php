@@ -5,9 +5,9 @@
 @section('content')
     <!--===== HERO AREA STARTS =======-->
     <div class="hero4-section-area">
-        <img src="/frontend/assets/img/elements/elements25.html" alt="" class="elements25">
-        <img src="/frontend/assets/img/elements/elements26.html" alt="" class="elements26">
-        <img src="/frontend/assets/img/bg/bg3.html" alt="" class="bg3 aniamtion-key-2">
+        <img src="/frontend/my-img/elements25.webp" alt="" class="elements25">
+        <img src="/frontend/my-img/elements26.webp" alt="" class="elements26">
+        <img src="/frontend/my-img/bg3.webp" alt="" class="bg3 aniamtion-key-2">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-6">
@@ -20,14 +20,14 @@
                             accessories designed <br class="d-lg-block d-none"> for convenience and safety. Stay connected,
                             stay safe.</p>
                         <div class="btn-area" data-aos="fade-left" data-aos-duration="1200">
-                            <a href="#0" class="header-btn5">Get a Free Quote <i
+                            <a href="tel:+1234567890" class="header-btn5">Get a Free Quote <i
                                     class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-6">
                     <div class="images reveal">
-                        <img src="/frontend/my-img/cta-img1.png" alt="">
+                        <img src="/frontend/my-img/header-img5.webp" alt="">
                     </div>
                 </div>
             </div>
