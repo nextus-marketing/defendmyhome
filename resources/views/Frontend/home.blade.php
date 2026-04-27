@@ -15,12 +15,12 @@
                         <h5 data-aos="fade-left" data-aos-duration="800"><img src="/frontend/assets/img/icons/finger2.svg"
                                 alt="">Top #1 Security Expert In The World</h5>
                         <h1 class="text-anime-style-3">Stay Safe, Stay Secure
-                            Expert CCTV Services</h1>
+                            Expert Home Security Services</h1>
                         <p data-aos="fade-left" data-aos-duration="1000">Control your home security remotely with our smart
                             accessories designed <br class="d-lg-block d-none"> for convenience and safety. Stay connected,
                             stay safe.</p>
                         <div class="btn-area" data-aos="fade-left" data-aos-duration="1200">
-                            <a href="tel:+1234567890" class="header-btn5">Get a Free Quote <i
+                            <a href="tel:+1234567890" class="header-btn5">Contact Now <i
                                     class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
@@ -119,7 +119,7 @@
 
                         <div class="btn-area">
                             <a href="tel:+1 (866) 420-6110" class="header-btn5">
-                                Get contact now <i class="fa-solid fa-arrow-right"></i>
+                                Contact now <i class="fa-solid fa-arrow-right"></i>
                             </a>
                         </div>
                     </div>
@@ -284,7 +284,7 @@
                     <div class="others-header heading8 text-center">
                         <h5 data-aos="fade-up" data-aos-duration="800"><img src="/frontend/assets/img/icons/finger2.svg"
                                 alt="">Explore Security Products</h5>
-                        <h2 class="text-anime-style-3">Where Quality CCTV Cameras Await</h2>
+                        <h2 class="text-anime-style-3">Where Quality Home Security Await</h2>
                         <p data-aos="fade-up" data-aos-duration="1000">Following installation, our commitment to your
                             security doesn't end there. We provide <br class="d-lg-block d-none"> thorough training on
                             how to use and manage</p>
