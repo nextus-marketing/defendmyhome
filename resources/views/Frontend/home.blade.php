@@ -1,6 +1,6 @@
 @extends('layouts.frontend')
 @section('title')
-    Home Secure Zone | CCTV Cameras, Smart Security Systems & Home Protection Solutions
+    Defend My Home | CCTV Cameras, Smart Security Systems & Home Protection Solutions
 @endsection
 @section('content')
     <!--===== HERO AREA STARTS =======-->
@@ -36,7 +36,7 @@
     <!--===== HERO AREA ENDS =======-->
 
     <!--===== ABOUT AREA STARTS =======-->
-    <div class="about3-section-area sp1">
+    <div class="about3-section-area sp1" id="about">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-6">
@@ -495,7 +495,7 @@
 
 
     <!--===== CTA AREA STARTS =======-->
-    <div class="cta4-section-area sp4">
+    <div class="cta4-section-area sp4" id="contact">
 
         <!-- Background Element -->
         <img src="/frontend/assets/img/elements/elements27.png" alt="" class="elements23">

@@ -1,6 +1,6 @@
 @extends('layouts.frontend')
 @section('title')
-    Terms And Condtions | Home Secure Zones
+    Terms And Condtions | Defend My Home
 @endsection
 @section('content')
     <div class="hero-inner-section-area">
@@ -30,7 +30,7 @@
                         <div class="space32"></div>
 
                         <p>
-                            Welcome to Home Secure Zone. These Terms and Conditions govern your use of our website,
+                            Welcome to Defend My Home. These Terms and Conditions govern your use of our website,
                             products, and services. By accessing or using our website or services, you agree to be
                             bound by these Terms. If you do not agree with any part of these Terms, please do not use
                             our services.
@@ -60,7 +60,7 @@
                         <div class="space16"></div>
                         <p>
                             By placing an order, you agree to pay the listed price and any applicable taxes or fees.
-                            Payments are processed through third party providers, and Home Secure Zone is not
+                            Payments are processed through third party providers, and Defend My Home is not
                             responsible for any issues arising from those providers.
                         </p>
 
@@ -78,7 +78,7 @@
                         <div class="space16"></div>
                         <p>
                             All content on our website including logos, designs, text, graphics, and software
-                            is the property of Home Secure Zone or its licensors and is protected by
+                            is the property of Defend My Home or its licensors and is protected by
                             intellectual property laws. You may not reproduce, distribute, or create derivative
                             works from any content without our express written permission.
                         </p>
@@ -110,7 +110,7 @@
                         <h2>8. Limitation of Liability</h2>
                         <div class="space16"></div>
                         <p>
-                            To the maximum extent permitted by law, Home Secure Zone is not liable for any
+                            To the maximum extent permitted by law, Defend My Home is not liable for any
                             indirect, incidental, special, or consequential damages arising from your use
                             of the website or services, even if we have been advised of the possibility of
                             such damages.
@@ -167,4 +167,18 @@
     </div>
     <div class="space32"></div>
     <div class="space24"></div>
+    <style>
+        .hero-inner-section-area {
+            position: relative;
+            z-index: 1;
+            background: #f9016180;
+            padding: 160px 0 100px;
+            overflow: hidden;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+        }
+    </style>
 @endsection

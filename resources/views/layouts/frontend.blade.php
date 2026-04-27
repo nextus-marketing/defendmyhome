@@ -26,9 +26,44 @@
     <script src="/frontend/assets/js/plugins/jquery-3-6-0.min.js"></script>
     <script src="/frontend/assets/js/plugins/waypoints.js"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+    <link rel="canonical" href="{{ url()->current() }}">
+    <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 </head>
 
 <body class="homepage4-body">
+
+    <a href="tel:+919876543210" class="call-float">
+        <i class="fa-solid fa-phone"></i>
+    </a>
+
+    <style>
+        .call-float {
+            position: fixed;
+            width: 55px;
+            height: 55px;
+            bottom: 20px;
+            left: 20px;
+            background-color: #d80758;
+            color: #fff;
+            border-radius: 50%;
+            text-align: center;
+            font-size: 22px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+            z-index: 999;
+            transition: 0.3s;
+        }
+
+        .call-float:hover {
+            background-color: #b00649;
+            transform: scale(1.1);
+        }
+    </style>
 
     <!--===== PRELOADER STARTS =======-->
     {{-- <div class="preloader">
@@ -118,7 +153,8 @@
             <div class="col-12">
                 <div class="mobile-header-elements">
                     <div class="mobile-logo">
-                        <a href="/"><img src="/frontend/my-img/logo.png" alt=""></a>
+                        <a href="/"><img src="/frontend/my-img/logo.png" alt=""height="50"
+                                width="210"></a>
                     </div>
                     <div class="mobile-nav-icon dots-menu">
                         <i class="fa-solid fa-bars-staggered"></i>
@@ -145,7 +181,7 @@
             </ul>
 
             <div class="allmobilesection">
-                <a href="#0" class="header-btn5">Get Started <span><i
+                <a href="tel:+1234567890" class="header-btn5">Call Now <span><i
                             class="fa-solid fa-arrow-right"></i></span></a>
                 <div class="single-footer">
                     <h3>Contact Info</h3>
@@ -159,41 +195,7 @@
                             </div>
                         </div>
 
-                        <div class="contact-info-single">
-                            <div class="contact-info-icon">
-                                <i class="fa-solid fa-envelope"></i>
-                            </div>
-                            <div class="contact-info-text">
-                                <a href="mailto:info@example.com">info@example.com</a>
-                            </div>
-                        </div>
 
-                        <div class="single-footer">
-                            <h3>Our Location</h3>
-
-                            <div class="contact-info-single">
-                                <div class="contact-info-icon">
-                                    <i class="fa-solid fa-location-dot"></i>
-                                </div>
-                                <div class="contact-info-text">
-                                    <a href="mailto:info@example.com">55 East Birchwood Ave.Brooklyn, <br> New York
-                                        11201,United States</a>
-                                </div>
-                            </div>
-
-                        </div>
-                        <div class="single-footer">
-                            <h3>Social Links</h3>
-
-                            <div class="social-links-mobile-menu">
-                                <ul>
-                                    <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
-                                    <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
-                                    <li><a href="#"><i class="fa-brands fa-linkedin-in"></i></a></li>
-                                    <li><a href="#"><i class="fa-brands fa-youtube"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
                     </div>
                 </div>
             </div>
@@ -228,6 +230,8 @@
                             <li><a href="/">Home</a></li>
                             <li><a href="/#about">About Us</a></li>
                             <li><a href="/#contact">Contact US</a></li>
+                            <li><a href="/privacy-policy">Privacy Policy</a></li>
+                            <li><a href="/terms-and-condition">Terms & Conditions</a></li>
                         </ul>
                     </div>
                 </div>

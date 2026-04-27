@@ -1,6 +1,6 @@
 @extends('layouts.frontend')
 @section('title')
-    Privacy Policy | Home Secure Zones
+    Privacy Policy | Defend My Home
 @endsection
 @section('content')
     <div class="hero-inner-section-area">
@@ -27,7 +27,7 @@
                     <div class="blog-right-single-area">
                         <div class="space24"></div>
                         <p>
-                            At Home Secure Zone, we are committed to protecting your privacy. This Privacy Policy outlines
+                            At Defend My Home, we are committed to protecting your privacy. This Privacy Policy outlines
                             how we collect,
                             use, and safeguard your personal information when you interact with our products, services, and
                             website.
@@ -110,4 +110,18 @@
     </div>
     <div class="space32"></div>
     <div class="space24"></div>
+    <style>
+        .hero-inner-section-area {
+            position: relative;
+            z-index: 1;
+            background: #f9016180;
+            padding: 160px 0 100px;
+            overflow: hidden;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+        }
+    </style>
 @endsection
