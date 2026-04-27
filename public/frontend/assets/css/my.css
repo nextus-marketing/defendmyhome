@@ -50,3 +50,14 @@
         height: 150px;
     }
 }
+
+.hero4-section-area {
+    position: relative;
+    z-index: 1;
+    background: var(--ztc-bg-bg-15);
+    padding: 140px 0 130px;
+}
+
+.text-anime-style-3 {
+    font-size: 52px !important;
+}
