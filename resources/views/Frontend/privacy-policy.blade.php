@@ -95,7 +95,9 @@
                             please contact us:
                         </p>
 
-                        <p><strong>Phone:</strong> +1-855-832-1250</p>
+                        <p><strong>Phone:</strong>
+                            <a href="tel:+18553000098" style="color: rgb(234, 19, 55);">+1 (855) 300-0098</a>
+                        </p>
                         {{-- <p><strong>Address:</strong> 21 Glenside Annandale, NJ, 08801</p> --}}
 
                         <div class="space16"></div>

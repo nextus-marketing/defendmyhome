@@ -19,8 +19,10 @@
                         <p data-aos="fade-left" data-aos-duration="1000">Control your home security remotely with our smart
                             accessories designed <br class="d-lg-block d-none"> for convenience and safety. Stay connected,
                             stay safe.</p>
-                            <a href="tel:+1234567890" class="header-btn5">Contact Now <i
+                        <div class="btn-area" data-aos="fade-left" data-aos-duration="1200">
+                            <a href="tel:+18553000098" class="header-btn5">Contact Now <i
                                     class="fa-solid fa-arrow-right"></i></a>
+                        </div>
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -56,7 +58,7 @@
                             secure, and always connected.</p>
 
                         <div class="btn-area" data-aos="fade-up" data-aos-duration="1300">
-                            <a href="#0" class="header-btn5"> Call Our Security Expert <i
+                            <a href="tel:+18553000098" class="header-btn5"> Call Our Security Expert <i
                                     class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
@@ -116,7 +118,7 @@
                         <div class="space32"></div>
 
                         <div class="btn-area">
-                            <a href="tel:+1 (866) 420-6110" class="header-btn5">
+                            <a href="tel:+18553000098" class="header-btn5">
                                 Contact now <i class="fa-solid fa-arrow-right"></i>
                             </a>
                         </div>
@@ -355,7 +357,7 @@
                         <div class="space32"></div>
 
                         <div class="btn-area" data-aos="fade-left" data-aos-duration="1200">
-                            <a href="#0" class="header-btn5">
+                            <a href="tel:+18553000098" class="header-btn5">
                                 Contact Us <i class="fa-solid fa-arrow-right"></i>
                             </a>
                         </div>
