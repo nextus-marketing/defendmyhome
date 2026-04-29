@@ -527,7 +527,7 @@
                             <!-- Button -->
                             <div class="col-lg-4">
                                 <div class="btn-area" data-aos="fade-left" data-aos-duration="1200">
-                                    <a href="#0" class="header-btn5">
+                                    <a href="tel:+18553000098" class="header-btn5">
                                         Call Now To Speak With Expert <i class="fa-solid fa-arrow-right"></i>
                                     </a>
                                 </div>
