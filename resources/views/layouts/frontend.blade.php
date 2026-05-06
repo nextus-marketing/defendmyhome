@@ -35,7 +35,7 @@
 
 <body class="homepage4-body">
 
-    <a href="tel:+18553000098" class="call-float">
+    <a href="tel:+18443000035" class="call-float">
         <i class="fa-solid fa-phone"></i>
     </a>
 
@@ -137,7 +137,7 @@
                                 </ul>
                             </div>
                             <div class="btn-area">
-                                <a href="tel:+18553000098" class="header-btn5">Contact Us<span><i
+                                <a href="tel:+18443000035" class="header-btn5">Contact Us<span><i
                                             class="fa-solid fa-arrow-right"></i></span></a>
                             </div>
                         </div>
@@ -181,7 +181,7 @@
             </ul>
 
             <div class="allmobilesection">
-                <a href="tel:+18553000098" class="header-btn5">Call Now <span><i
+                <a href="tel:+18443000035" class="header-btn5">Call Now <span><i
                             class="fa-solid fa-arrow-right"></i></span></a>
                 <div class="single-footer">
                     <h3>Contact Info</h3>
@@ -191,7 +191,7 @@
                                 <i class="fa-solid fa-phone-volume"></i>
                             </div>
                             <div class="contact-info-text">
-                                <a href="tel:+3(924)4596512">+3(924)4596512</a>
+                                <a href="tel:+18443000035">+1 (844) 300-0035</a>
                             </div>
                         </div>
 
@@ -246,7 +246,7 @@
                             <a href="#"><i class="fa-solid fa-phone"></i></a>
                         </div>
                         <div class="text">
-                            <a href="tel:+18553000098">+1 (855) 300-0098</a>
+                            <a href="tel:+18443000035">+1 (844) 300-0035</a>
                         </div>
                     </div>
 

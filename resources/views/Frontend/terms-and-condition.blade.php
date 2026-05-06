@@ -158,7 +158,7 @@
                         <p>If you have any questions about these Terms, please contact us:</p>
 
                         <p><strong>Phone:</strong>
-                            <a href="tel:+18553000098" style="color: rgb(255, 5, 47);">+1 (855) 300-0098</a>
+                            <a href="tel:+18443000035" style="color: rgb(255, 5, 47);">+1 (844) 300-0035</a>
                         </p>
                         {{-- <p><strong>Address:</strong> 21 Glenside Annandale, NJ, 08801</p> --}}
 
