@@ -60,7 +60,7 @@
                         <div class="space16"></div>
                         <p>
                             By placing an order, you agree to pay the listed price and any applicable taxes or fees.
-                            Payments are processed through third party providers, and Defend My Home is not
+                            Payments are processed through third party providers, and NEXTGEN GLOBAL LLC DBA Defend My Home is not
                             responsible for any issues arising from those providers.
                         </p>
 
@@ -78,7 +78,7 @@
                         <div class="space16"></div>
                         <p>
                             All content on our website including logos, designs, text, graphics, and software
-                            is the property of Defend My Home or its licensors and is protected by
+                            is the property of NEXTGEN GLOBAL LLC DBA Defend My Home or its licensors and is protected by
                             intellectual property laws. You may not reproduce, distribute, or create derivative
                             works from any content without our express written permission.
                         </p>
@@ -110,7 +110,7 @@
                         <h2>8. Limitation of Liability</h2>
                         <div class="space16"></div>
                         <p>
-                            To the maximum extent permitted by law, Defend My Home is not liable for any
+                            To the maximum extent permitted by law, NEXTGEN GLOBAL LLC DBA Defend My Home is not liable for any
                             indirect, incidental, special, or consequential damages arising from your use
                             of the website or services, even if we have been advised of the possibility of
                             such damages.
@@ -156,7 +156,7 @@
                         <h2>13. Contact Us</h2>
                         <div class="space16"></div>
                         <p>If you have any questions about these Terms, please contact us:</p>
-
+                        <p>NEXTGEN GLOBAL LLC DBA Defend My Home</p>
                         <p><strong>Phone:</strong> +1-855-832-1250</p>
                         {{-- <p><strong>Address:</strong> 21 Glenside Annandale, NJ, 08801</p> --}}
 

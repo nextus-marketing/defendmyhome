@@ -263,7 +263,7 @@
             <div class="row mt-5">
                 <div class="col-lg-12 m-auto">
                     <div class="copyright text-center">
-                        <p>© Copyright 2026 -Defend My Home. All Right Reserved</p>
+                        <p>© Copyright 2026 - NEXTGEN GLOBAL LLC DBA Defend My Home. All Right Reserved</p>
                     </div>
                 </div>
             </div>

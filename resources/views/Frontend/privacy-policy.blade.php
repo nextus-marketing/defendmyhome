@@ -94,7 +94,7 @@
                             If you have any questions about this Privacy Policy or how we handle your personal information,
                             please contact us:
                         </p>
-
+                        <p>NEXTGEN GLOBAL LLC DBA Defend My Home</p>
                         <p><strong>Phone:</strong> +1-855-832-1250</p>
                         {{-- <p><strong>Address:</strong> 21 Glenside Annandale, NJ, 08801</p> --}}
 
