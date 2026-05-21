@@ -162,10 +162,19 @@
 =======
 
                         <p><strong>Phone:</strong>
-                            <a href="tel:+18443000035" style="color: rgb(255, 5, 47);">+1 (844) 300-0035</a>
+                            <a href="tel:+18443000035" style="color: rgb(234, 19, 55);">+1 (844) 300-0035</a>
                         </p>
+<<<<<<< HEAD
 >>>>>>> 5f386bddf5ddec01b114c06d33d9282ba7815cce
                         {{-- <p><strong>Address:</strong> 21 Glenside Annandale, NJ, 08801</p> --}}
+=======
+                        <p><strong>Email:</strong>
+                            <a href="mailto:info@defendmyhome.org"
+                                style="color: rgb(234, 19, 55);">info@defendmyhome.org</a>
+                        </p>
+                        <p><strong>Address:</strong>944 South Columbus St,
+                            Arlington, VA, 22204</p>
+>>>>>>> 14d70da (d)
 
                     </div>
                 </div>

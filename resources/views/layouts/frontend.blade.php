@@ -133,7 +133,7 @@
                                 <ul>
                                     <li><a href="/">Home </a></li>
                                     <li><a href="/#about"> About Us  </a></li>
-                                    <li><a href="/#contact">Contact US</a></li>
+                                    <li><a href="/contact">Contact US</a></li>
                                 </ul>
                             </div>
                             <div class="btn-area">
@@ -177,7 +177,7 @@
             <ul class="mobile-nav-list nav-list1">
                 <li><a href="/">Home </a></li>
                 <li><a href="/#about"> About Us  </a></li>
-                <li><a href="/#contact">Contact US</a></li>
+                <li><a href="/contact">Contact US</a></li>
             </ul>
 
             <div class="allmobilesection">
@@ -229,7 +229,7 @@
                         <ul>
                             <li><a href="/">Home</a></li>
                             <li><a href="/#about">About Us</a></li>
-                            <li><a href="/#contact">Contact US</a></li>
+                            <li><a href="/contact">Contact US</a></li>
                             <li><a href="/privacy-policy">Privacy Policy</a></li>
                             <li><a href="/terms-and-condition">Terms & Conditions</a></li>
                         </ul>
@@ -247,6 +247,25 @@
                         </div>
                         <div class="text">
                             <a href="tel:+18443000035">+1 (844) 300-0035</a>
+                        </div>
+                    </div>
+
+                    <div class="location-area">
+                        <div class="img1">
+                            <a href="#"><i class="fa-solid fa-envelope"></i></a>
+                        </div>
+                        <div class="text">
+                            <a href="mailto:info@defendmyhome.org">info@defendmyhome.org</a>
+                        </div>
+                    </div>
+
+                    <div class="location-area">
+                        <div class="img1">
+                            <a href="#"><i class="fa-solid fa-home"></i></a>
+                        </div>
+                        <div class="text">
+                            <a href="#0">944 South Columbus St,
+                                Arlington, VA, 22204</a>
                         </div>
                     </div>
 
