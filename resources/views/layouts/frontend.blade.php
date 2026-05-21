@@ -184,20 +184,42 @@
                 <a href="tel:+18443000035" class="header-btn5">Call Now <span><i
                             class="fa-solid fa-arrow-right"></i></span></a>
                 <div class="single-footer">
-                    <h3>Contact Info</h3>
-                    <div class="footer1-contact-info">
-                        <div class="contact-info-single">
-                            <div class="contact-info-icon">
-                                <i class="fa-solid fa-phone-volume"></i>
-                            </div>
-                            <div class="contact-info-text">
-                                <a href="tel:+18443000035">+1 (844) 300-0035</a>
-                            </div>
-                        </div>
+    <h3>Contact Info</h3>
 
+    <div class="footer1-contact-info">
 
-                    </div>
-                </div>
+        <!-- Phone -->
+        <div class="contact-info-single">
+            <div class="contact-info-icon">
+                <i class="fa-solid fa-phone-volume"></i>
+            </div>
+            <div class="contact-info-text">
+                <a href="tel:+18443000035">+1 (844) 300-0035</a>
+            </div>
+        </div>
+
+        <!-- Email -->
+        <div class="contact-info-single">
+            <div class="contact-info-icon">
+                <i class="fa-solid fa-envelope"></i>
+            </div>
+            <div class="contact-info-text">
+                <a href="mailto:info@defendmyhome.org">info@defendmyhome.org</a>
+            </div>
+        </div>
+
+        <!-- Location -->
+        <div class="contact-info-single">
+            <div class="contact-info-icon">
+                <i class="fa-solid fa-location-dot"></i>
+            </div>
+            <div class="contact-info-text">
+                <span>  944 South Columbus St, Arlington, VA, 22204</span>
+            </div>
+        </div>
+
+    </div>
+</div>
             </div>
         </div>
     </div>
